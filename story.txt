@@ -1,1 +1,2 @@
 queen.txt
+characters-king,queen,servant,minister
